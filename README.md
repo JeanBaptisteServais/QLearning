@@ -47,3 +47,7 @@ for the deadlock: if he takes a "G" item he recup the min movement and at the la
 
 
 <h3>Tutto</h3>
+
+
+https://www.youtube.com/watch?v=a0bVIyIJ074&list=PLpEPgC7cUJ4YPZlfUu0vQTwPraVKPASUa&index=5<br>
+https://www.youtube.com/watch?v=P6kSc3qVph0&list=PLO_fdPEVlfKoHQ3Ua2NtDL4nmynQC8YiS
