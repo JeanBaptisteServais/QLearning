@@ -9,7 +9,7 @@ He learns to avoid missile with Knn technic
 
 <h2>Training phase</h2>
 
-![entrainement](https://user-images.githubusercontent.com/54853371/87985308-a601b600-cadb-11ea-9b60-d81692611533.gif)
+<img src = "https://user-images.githubusercontent.com/54853371/87985308-a601b600-cadb-11ea-9b60-d81692611533.gif" width=500>
 
 <h2>Environement 1 exit</h2>
 
