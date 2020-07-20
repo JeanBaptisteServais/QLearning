@@ -3,17 +3,18 @@ Egreedy, Knn, Qlearning
 
 Dk learn to find an exit with maximum reward. With a exploiration phase and an exploitation phase in function of an e greedy technic. He learns to avoid missile with Knn technic
 
+<br><br><br>
 
-<h1>Training phase</h1>
-
-
-<h1>Environement 1 exit</h1>
+<h2>Training phase</h2>
 
 
-<h1>Environement 2 exits (reward / no reward)</h1>
+<h2>Environement 1 exit</h2>
 
 
-<h1>Environement 2 exits (reward / no reward) with deadlock and avoid missile</h1>
+<h2>Environement 2 exits (reward / no reward)</h2>
+
+
+<h2>Environement 2 exits (reward / no reward) with deadlock and avoid missile</h2>
 
 
 
@@ -29,4 +30,4 @@ for the deadlock: if he takes a "G" item he recup the min movement and at the la
 
 
 
-<h1>Tutto</h1>
+<h3>Tutto</h3>
