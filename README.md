@@ -13,11 +13,6 @@ Dk learn to find an exit with maximum reward. With a exploiration phase and an e
 <h1>Environement 2 exits (reward / no reward)</h1>
 
 
-
-<h1>Environement 2 exits (reward / no reward) with deadlock</h1>
-
-
-
 <h1>Environement 2 exits (reward / no reward) with deadlock and avoid missile</h1>
 
 
