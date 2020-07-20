@@ -25,4 +25,9 @@ Dk learn to find an exit with maximum reward. With a exploiration phase and an e
 
 
 
+nb: he go top/bot because missile takes 5 iterations for moving !!
+
+
+
+
 <h1>Tutto</h1>
