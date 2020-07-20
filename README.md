@@ -13,12 +13,12 @@ He learns to avoid missile with Knn technic
 
 <h2>Environement 1 exit</h2>
 
-![first](https://user-images.githubusercontent.com/54853371/87985050-42778880-cadb-11ea-8932-d13b674e1e36.gif)
+<img src="https://user-images.githubusercontent.com/54853371/87985050-42778880-cadb-11ea-8932-d13b674e1e36.gif" width=500>
 
 
 <h2>Environement 2 exits (reward / no reward)</h2>
 
-![2roads](https://user-images.githubusercontent.com/54853371/87985189-7783db00-cadb-11ea-9f66-09d737741513.gif)
+<img src="https://user-images.githubusercontent.com/54853371/87985189-7783db00-cadb-11ea-9f66-09d737741513.gif" width=500>
 
 <h2>Environement 2 exits (reward / no reward) with deadlock and avoid missile</h2>
 
