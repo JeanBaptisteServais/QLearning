@@ -11,6 +11,15 @@ He learns to avoid missile with Knn technic
 
 <img src = "https://user-images.githubusercontent.com/54853371/87985308-a601b600-cadb-11ea-9b60-d81692611533.gif" width=500>
 
+red reward : -1 <br>
+green reward: +500 <br>
+yellow reward: + 100 <br>
+out reward green: + 20000<br>
+missile luncher: -100
+
+
+
+
 <h2>Environement 1 exit</h2>
 
 <img src="https://user-images.githubusercontent.com/54853371/87985050-42778880-cadb-11ea-8932-d13b674e1e36.gif" width=500>
