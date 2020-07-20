@@ -36,7 +36,7 @@ missile luncher: -100
 
 
 
-nb: he go top/bot because missile takes 5 iterations for moving !!
+nb: he go top/bot because missile takes 5 iterations for moving !! And he doesn't go to the green because wasn't finish (oups)
 
 
 Egreedy: exploration 100% 5000 first iteration, down each 2000 iteration after to 0% (down it of 10%) <br>
