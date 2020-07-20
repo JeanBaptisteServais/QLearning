@@ -8,13 +8,16 @@ He learns to avoid missile with Knn technic
 <br><br><br>
 
 <h2>Training phase</h2>
+
 ![entrainement](https://user-images.githubusercontent.com/54853371/87985308-a601b600-cadb-11ea-9b60-d81692611533.gif)
 
 <h2>Environement 1 exit</h2>
+
 ![first](https://user-images.githubusercontent.com/54853371/87985050-42778880-cadb-11ea-8932-d13b674e1e36.gif)
 
 
 <h2>Environement 2 exits (reward / no reward)</h2>
+
 ![2roads](https://user-images.githubusercontent.com/54853371/87985189-7783db00-cadb-11ea-9f66-09d737741513.gif)
 
 <h2>Environement 2 exits (reward / no reward) with deadlock and avoid missile</h2>
